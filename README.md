@@ -60,4 +60,8 @@ media/   Product images
 
 ## Author
 
-Mohammad Hashir
+Mohammad Hashir - mohammadhashir1000@gmail.com
+<img width="960" height="540" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ef61cdb9-1898-4d40-bbf0-1d3416db5dc9" />
+<img width="960" height="540" alt="Screenshot 2" src="https://github.com/user-attachments/assets/8f83beb4-d165-4169-801a-90be3648deaf" />
+<img width="960" height="540" alt="Screenshot 1" src="https://github.com/user-attachments/assets/17519cd1-3e3e-49d6-a431-a05630bbd9fb" />
+
